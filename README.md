@@ -3,6 +3,12 @@
 This plugin posts updates to issues in your Redmine installation to a Slack
 channel. Improvements are welcome! Just send a pull request.
 
+## Fork note
+
+This repository is really maintained in Apr 2015
+
+based on @takah 's fix
+
 ## Screenshot
 
 ![screenshot](https://raw.github.com/sciyoshi/redmine-slack/gh-pages/screenshot.png)
